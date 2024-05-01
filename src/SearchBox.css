@@ -1,0 +1,16 @@
+.SearchBox {
+    text-align: center;
+    margin-bottom: 25px ;
+}
+.search-box{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+
